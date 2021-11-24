@@ -1,0 +1,57 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+background-image: url(./images/background\ video.gif);
+background-position: center right ;
+background-size: 100%;
+}
+.H1 {
+  padding-left: 80px !important;
+  color: #01FF70;
+}
+.H1:hover{
+    color: darkgreen;
+    transition: 0.2s ease;
+}
+.hIcon {
+  padding-left: 50px !important;
+  /* border: 2px solid green; */
+  width: 50%;
+  font-size: 60px;
+  color: rgb(9, 128, 240);
+}
+.para {
+  color: #F012BE;
+}
+p {
+  color: #AAAAAA;
+}
+p:hover {
+    color: darkred;
+  transition: 0.2s ease;
+}
+
+.myBtn{
+    border-radius: 100px !important;
+    background-color: rgb(212, 14, 14);
+    color: blue !important;
+}
+.myBtn1{
+    border-radius: 100px !important;
+    background-color: rgb(212, 14, 14);
+   
+}
+
+
+.myBtn1:hover{
+    background-color:  rgba(17, 14, 219, 0.767);
+    color: red !important;
+}
+.myBtn:hover{
+    background-color:  rgba(17, 14, 219, 0.767);
+    color: red !important;
+}
+
+.myBtn i{
+    font-size: 25px;
+    color: white;
+}
